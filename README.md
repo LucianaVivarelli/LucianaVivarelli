@@ -31,5 +31,5 @@
   
   <div align="center"> 
     Github em manutenção!
-* Novos projetos dia 28/03
+* Novos projetos dia 02|04
     </div>
