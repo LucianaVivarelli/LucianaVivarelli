@@ -1,3 +1,9 @@
+ <div align="center"> 
+    Github em Manutenção!
+* Portfólio com novos projetos dia 15/04
+    </div>
+
+
 <div align="center">
   <h1>Olá, eu sou a Luciana Vivarelli</h1>
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/a9daed3890298f609018f9e6a7b3daa7.gif" width="180" height="180" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
@@ -29,7 +35,4 @@
  
 </div>
   
-  <div align="center"> 
-    Github em manutenção!
-* Portfólio com novos projetos dia 15/04
-    </div>
+ 
