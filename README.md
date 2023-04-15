@@ -1,6 +1,6 @@
  <div align="center"> 
     Github em Manutenção!
-* Portfólio com novos projetos dia 15/04
+* Portfólio com novos projetos em breve
     </div>
 
 
